@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DJITraining</string>
+    <string name="connection_loose">Status: No Product Connected</string>
+    <string name="model_not_available">Firmware version:N/A</string>
+    <string name="product_information">Product Information</string>
+    <string name="sdk_registration_message">SDK Registration Failed. Please check the bundle ID and your network
+        connectivity
+    </string>
+    <string name="sdk_registration_success_message">SDK Registered Successfully</string>
+    <string name="sdk_registration_doing_message">Registering, pls wait...</string>
+    <string name="mode_name">模式:%1$s</string>
+    <string name="gps_lev">GPS:%1$s</string>
+    <string name="fl_vs">V.S:%1$f</string>
+    <string name="fl_hs">V.S:%1$f</string>
+    <string name="fl_alt">V.S:%1$f</string>
+
+</resources>
